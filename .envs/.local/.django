@@ -1,4 +1,9 @@
 # General
 # ------------------------------------------------------------------------------
+from config.settings.base import STRIPE_PUBLIC_KEY, STRIPE_SECRET_KEY
+
+
 USE_DOCKER=yes
 IPYTHONDIR=/app/.ipython
+DJANGO_SECRET_KEY='2xg2EyAPbqmUmA7vmtDE4QGtNPeGfAV79Zdp7jbmHcgH3fC9zK7xkaic3FBcA3Ji'
+
