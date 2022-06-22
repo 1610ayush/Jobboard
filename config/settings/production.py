@@ -204,3 +204,6 @@ sentry_sdk.init(
 # Your stuff...
 # ------------------------------------------------------------------------------
 FRONTEND_URL = "https://jobs.justdjango.com"
+CORS_ALLOWED_ORIGINS = [
+    "https://jobboard.website",
+]
