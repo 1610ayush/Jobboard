@@ -5,7 +5,7 @@
 This project was bootstrapped with Cookiecutter Django and can be run with Docker.
 Frontend is made of react and backend is built with django.
 
-This is jobboard where jobseekers can go and find jobs and companies can post about job, update or delete them. Only jobpost owners can update or delete their jobs. You have to logged in to update ur job. Below is a little preview of my project.
+This is jobboard where jobseekers can go and find jobs and companies can post about job, update or delete them. Only jobpost owners can update or delete their jobs. You have to be logged in to update your job. Below is a little preview of my project.
 
 You can run the project with `docker-compose -f local.yml up`
 
